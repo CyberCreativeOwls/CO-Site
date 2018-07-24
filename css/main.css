@@ -1,0 +1,11 @@
+@font-face
+{
+  font-family: "Caslon_540";
+  url("fonts/Caslon_540_BT_Regular.otf")  format("opentype");
+
+}
+
+body
+{
+  font-family: Caslon_540;
+}
