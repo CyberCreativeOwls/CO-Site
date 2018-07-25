@@ -8,4 +8,82 @@
 body
 {
   font-family: Caslon_540;
+
+  background-color: #CFD8DC;
+  font-weight: 300;
+  font-size: 16px;
+
+
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+  -moz-font-smoothing: antialiased;
+  -moz-overflow-scrolling: touch;
+  -o-font-smoothing: antialiased;
+  -o-overflow-scrolling: touch;
+
 }
+
+h1, h2, h3, h4, h5, h6
+{
+  font-family: "Caslon_540";
+  font-weight: 300;
+  font-size: 70px;
+  color: #000;
+}
+
+h5
+{
+  font-family: "Caslon_540";
+  font-weight: 300;
+  font-size: 25px;
+  color: #000;
+}
+
+.navbar-space
+{
+  color: #414a4c;
+}
+
+p
+{
+  line-height: 28px;
+  margin-bottom: 25px;
+  text-decoration-color: white;
+}
+
+.card a
+{
+  font-size: 20px;
+  padding: 5px;
+  color: #343A40;
+}
+
+.shadow-card img:hover
+{
+  background: white;
+  display: inline-block;
+
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#footer
+{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+#footer i
+{
+  color: #343A40;
+  font-size: 30px;
+  padding: 20px;
+}
+
+#footer i:hover
+{
+  color: #78909C; /*#909DA0;*/
+}
+
+
+
+#Copyright (c) {2018} Copyright Filin Corporation All Rights Reserved.
