@@ -51,9 +51,21 @@ p
   text-decoration-color: white;
 }
 
+.big_logo
+{
+  padding-top: 140px;
+  padding-bottom: 80px;
+}
+
+#card-padding
+{
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
 .card a
 {
-  font-size: 20px;
+  font-size: 30px;
   padding: 5px;
   color: #343A40;
 }
